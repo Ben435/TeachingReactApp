@@ -22,3 +22,4 @@ yarn-error.log*
 
 # Jetbrains
 .idea
+client/node_modules
